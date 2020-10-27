@@ -1,0 +1,22 @@
+{
+  "name": "vue-rms",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graylogo/vue-rms.git"
+  },
+  "author": "Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graylogo/vue-rms/issues"
+  },
+  "homepage": "https://github.com/graylogo/vue-rms#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
